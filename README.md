@@ -3,7 +3,7 @@
 <br />
 <br />
 
-Hi, I'm Guillaume Kusiak, I'm currently in IT BUT int the IUT of Aix-Marseille. I'm really passionnate about FullStack Developpement, like building website.
+Hi, I'm Guillaume Kusiak, I'm currently in IT BUT in the IUT of Aix-Marseille. I'm really passionnate about FullStack Developpement, like building website.
 
 ⭐️ See my website : [PortFolio](https://guillaumekusiak.github.io/Portfolio/)
   
