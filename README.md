@@ -11,7 +11,7 @@ Hi, I'm Guillaume Kusiak, I'm currently in IT BUT in the IUT of Aix-Marseille. I
 
 - <img align="left" width="20px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>I’m currently learning [React](https://fr.reactjs.org/)
 - <img align="left" width="20px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg"/> To contact me : guillaume.kusiak@etu.univ-amu.fr
-- <img align="left" width="20px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/> I'm also on Linkedin : [Guillaume Kusiak]
+- <img align="left" width="20px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/> I'm also on Linkedin : [Guillaume Kusiak ](https://www.linkedin.com/in/guillaume-kusiak-b28463226/)
 
 **Languages and Tools:**  
 
