@@ -3,7 +3,7 @@
 <br />
 <br />
 
-Hi, I'm Guillaume Kusiak, I'm currently in IT BUT in the IUT of Aix-Marseille. I'm really passionnate about FullStack Developpement, like building website.
+Hi, I'm Guillaume Kusiak, I'm currently studying Computer Science at Aix-En-Provence (BUT, University Bachelor of Thechnology). I realise this formation in apprenticeship (1 month formation / 1 month company) at KPC Key Performance Consulting.
 
 ⭐️ See my website : [PortFolio](https://guillaumekusiak.github.io/Portfolio/)
   
