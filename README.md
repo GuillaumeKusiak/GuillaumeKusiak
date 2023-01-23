@@ -20,7 +20,6 @@ Hi, I'm Guillaume Kusiak, I'm currently studying Computer Science at Aix-En-Prov
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently learning on [React](https://fr.reactjs.org/)  
   
@@ -29,13 +28,6 @@ Hi, I'm Guillaume Kusiak, I'm currently studying Computer Science at Aix-En-Prov
   
 
 - 🌟 See my website : [PortFolio](https://guillaumekusiak.github.io/Portfolio/)  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
