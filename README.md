@@ -13,7 +13,7 @@
 
 ### Glad to see you here!  
 
-Hi, I'm Guillaume Kusiak, I'm currently studying Computer Science at Aix-En-Provence (BUT, University Bachelor of Thechnology). I realise this formation in apprenticeship (1 month formation / 1 month company) at KPC Key Performance Consulting.  
+Hi, I'm Guillaume Kusiak, I'm currently studying Computer Science at Aix-En-Provence (BUT, University Bachelor of Thechnology). I realise this formation in apprenticeship (1 month formation / 1 month company) at KPC Key Performance Consulting as Web Developper.  
   
 
 <br/>  
