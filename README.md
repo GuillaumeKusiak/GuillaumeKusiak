@@ -21,7 +21,7 @@ Hi, I'm Guillaume Kusiak, I'm currently studying Computer Science at Aix-En-Prov
 
 ## Rapidfire  
 
-- 🔭 I’m currently learning on [React](https://fr.reactjs.org/)  
+- 🔭 I’m currently learning on [OpenCV](https://opencv.org/)  
   
 
 - ✉️ To contact me : guillaume.kusiak@gmail.com  
